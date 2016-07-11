@@ -2,60 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_4de5f72ce58c552fcb36471f4eb6b9f12ce6d3f4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="ce4a9b7949e90447ef464773d38b43a3b62ef0ec">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4866d97546882f4f1d273d547086ffcd64283a7d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d9e30d55437178d328dd6f758ae46745fa83c0b4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_0d37c5b75e98201a314d7623fcd4f421546039cf\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="8a42d9b72074709382c649fd791ddcbfe94d1a24">
+        sha1="3895fe4d32990a0da2305e16800c2203da1a7407">
         <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4196bd71a5c2c94444f0d8cc0d951f8814007bef\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_6abc3ea37647a919fe9bda6fbc9f2ae22b7e3fe2\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b39cb75c2abbd2d3137660123ebda1e5365f764d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ZORLU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\Users\ZORLU\AndroidStudioProjects\MyProject\MyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_94c680fd19537448637c997b2b2b48ec2abe71bb\classes.dex" />
     </item>
 
 </items>
